@@ -9,6 +9,7 @@
 ## 冒泡排序
 
 - 实现原理
+
 a) 算法核心（这个是我如此分配的，如果有不认可的地方，请指出）
 ![](https://raw.githubusercontent.com/Zychaowill/ImgStore/master/AssmblyProgram/as1-1.png)
 
@@ -31,6 +32,7 @@ c) 二进制与字符转换图示
 然而，这个只是在代码实现上的逻辑简化，现实中是不能这样在底座上移动底盘的。在正常操作时，只能一次移动一个底盘，而且移动过程中不能出现大底盘在小底盘上的情况。
 
 - 代码详解
+
 a) 算法核心
 ![](https://raw.githubusercontent.com/Zychaowill/ImgStore/master/AssmblyProgram/as2-1.png)
 
@@ -63,6 +65,7 @@ i) 恢复寄存器中的内容，与第d步骤对应
 ## 中断驱动的IO模拟
 
 - 中断驱动的IO图示分析
+
 a) 主存映射的IO图：
 ![](https://raw.githubusercontent.com/Zychaowill/ImgStore/master/AssmblyProgram/as3-1.png)
 
