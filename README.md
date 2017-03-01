@@ -2,9 +2,9 @@
 基于LC-3实现的汇编语言程序
 
 ## Contents:
-- Bubble Sort
-- Hanoi
-- Interrupt-Driven I/O
+- Bubble Sort(冒泡排序)
+- Hanoi（汉诺塔）
+- Interrupt-Driven I/O（中断驱动的IO）
 
 ## 冒泡排序
 
