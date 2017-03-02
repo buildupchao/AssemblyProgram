@@ -19,9 +19,9 @@ b) 主存和寄存器的使用情况
 c) 二进制与字符转换图示
 ![](https://raw.githubusercontent.com/Zychaowill/ImgStore/master/AssmblyProgram/as1-3.png)
 
-2、[冒泡排序算法核心代码](https://github.com/Zychaowill/AssmblyProgram/blob/master/Assmebly%20Program/BubbleSort/bubbleSort)
+2、[冒泡排序算法核心代码](https://github.com/Zychaowill/AssmblyProgram/blob/master/BubbleSort/bubbleSort)
 
-3、[冒泡排序检测数据代码](https://github.com/Zychaowill/AssmblyProgram/blob/master/Assmebly%20Program/BubbleSort/DATA)
+3、[冒泡排序检测数据代码](https://github.com/Zychaowill/AssmblyProgram/blob/master/BubbleSort/DATA)
 
 ## 汉诺塔
 
@@ -61,7 +61,7 @@ h) Move (n - 1, T, S, E)
 i) 恢复寄存器中的内容，与第d步骤对应
 ![](https://raw.githubusercontent.com/Zychaowill/ImgStore/master/AssmblyProgram/as2-9.png)
 
-3、[汉诺塔代码实现](https://github.com/Zychaowill/AssmblyProgram/blob/master/Assmebly%20Program/Hanoi/hanoi)
+3、[汉诺塔代码实现](https://github.com/Zychaowill/AssmblyProgram/blob/master/Hanoi/hanoi)
 
 ## 中断驱动的IO模拟
 
@@ -78,6 +78,6 @@ c) 应为要模拟终端驱动的IO，所以首先要构造中断矢量表条目
 
 中断驱动的IO汇编模拟程序，主要有两部分组成：
 
-2、[用户程序](https://github.com/Zychaowill/AssmblyProgram/blob/master/Assmebly%20Program/Interrupt_new/INT)
+2、[用户程序](https://github.com/Zychaowill/AssmblyProgram/blob/master/Interrupt_new/INT)
 
-3、[中断处理程序](https://github.com/Zychaowill/AssmblyProgram/blob/master/Assmebly%20Program/Interrupt_new/INTP)
+3、[中断处理程序](https://github.com/Zychaowill/AssmblyProgram/blob/master/Interrupt_new/INTP)
